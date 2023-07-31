@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\SQLServerTester\SQLServerTesterSolution\SQLServerTesterApp\bin\Debug\SQLServerTesterApp.exe.config
+C:\Users\jpscott\Desktop\SQLServerTester\SQLServerTesterSolution\SQLServerTesterApp\bin\Debug\SQLServerTesterApp.exe
+C:\Users\jpscott\Desktop\SQLServerTester\SQLServerTesterSolution\SQLServerTesterApp\bin\Debug\SQLServerTesterApp.pdb
+C:\Users\jpscott\Desktop\SQLServerTester\SQLServerTesterSolution\SQLServerTesterApp\obj\Debug\SQLServerTesterApp.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\SQLServerTester\SQLServerTesterSolution\SQLServerTesterApp\obj\Debug\SQLServerTesterApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\SQLServerTester\SQLServerTesterSolution\SQLServerTesterApp\obj\Debug\SQLServerTesterApp.frmQueryTester.resources
+C:\Users\jpscott\Desktop\SQLServerTester\SQLServerTesterSolution\SQLServerTesterApp\obj\Debug\SQLServerTesterApp.Properties.Resources.resources
+C:\Users\jpscott\Desktop\SQLServerTester\SQLServerTesterSolution\SQLServerTesterApp\obj\Debug\SQLServerTesterApp.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\SQLServerTester\SQLServerTesterSolution\SQLServerTesterApp\obj\Debug\SQLServerTesterApp.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\SQLServerTester\SQLServerTesterSolution\SQLServerTesterApp\obj\Debug\SQLServerTesterApp.exe
+C:\Users\jpscott\Desktop\SQLServerTester\SQLServerTesterSolution\SQLServerTesterApp\obj\Debug\SQLServerTesterApp.pdb
